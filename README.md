@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Coding and animating for personal use and fun!
 - 🌱 I’m currently learning ... UE4
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... Eugene98120@yahoo.com
 
 <!---
 CODEugene/CODEugene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
